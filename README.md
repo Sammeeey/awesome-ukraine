@@ -1,4 +1,4 @@
-# awesome-ukraine
+# awesome-ukraine [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 List of open source projects, which support peace within the russian war against Ukraine
 
 ## Web Development
@@ -15,4 +15,3 @@ List of open source projects, which support peace within the russian war against
 
 ## IT industry / supply
 - [Stop Russia IT](https://github.com/stop-war-in-ukraine/stop-russia-it)
-
