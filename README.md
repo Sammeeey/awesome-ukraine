@@ -9,3 +9,10 @@ List of open source projects, which support peace within the russian war against
 
 ## Link Lists
 - [Help Ukraine (hiptechclub)](https://github.com/IgorVaryvoda/Help-Ukraine)
+
+## Data
+- [IOCs (CERT Orange Cyberdefense Threat Intelligence Datalake)](https://github.com/Orange-Cyberdefense/russia-ukraine_IOCs)
+
+## IT industry / supply
+- [Stop Russia IT](https://github.com/stop-war-in-ukraine/stop-russia-it)
+
