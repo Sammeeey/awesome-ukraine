@@ -1,4 +1,5 @@
-# awesome-ukraine [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# awesome-ukraine [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) <img align="right" width="150" src="https://user-images.githubusercontent.com/49591562/156856065-2ef1fa12-6e90-45b5-b39d-69097c02d37e.svg">
+
 List of open source projects, which support peace within the russian war against Ukraine
 
 ## Web Development
