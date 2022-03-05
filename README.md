@@ -2,6 +2,13 @@
 
 List of open source projects, which support peace within the russian war against Ukraine - mainly for developers, to contribute/use.
 
+  * [Web Development](#web-development)
+  * [Data](#data)
+  * [IT industry / supply](#it-industry--supply)
+  * [non-software](#non-software)
+    + [Ukraine Support Links](#ukraine-support-links)
+
+
 ## Web Development
 - [We stand with Ukraine (website badge)](https://github.com/virae/we-stand-with-ukraine)
 
