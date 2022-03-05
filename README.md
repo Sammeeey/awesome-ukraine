@@ -2,6 +2,7 @@
 
 List of open source projects, which support peace within the russian war against Ukraine - mainly for developers, to contribute/use.
 
+## Contents
   * [Web Development](#web-development)
   * [Data](#data)
   * [IT industry / supply](#it-industry--supply)
